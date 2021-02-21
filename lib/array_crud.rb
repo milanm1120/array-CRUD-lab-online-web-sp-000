@@ -1,9 +1,9 @@
 def create_an_empty_array
-  []
+  array = []
 end
 
 def create_an_array
-  ["wind", "water", "fire", "earth"]
+  array = ["wind", "water", "fire", "earth"]
 end
 
 def add_element_to_end_of_array(array, element)
