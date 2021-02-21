@@ -11,10 +11,10 @@ end
 create_an_array
 
 def add_element_to_end_of_array(array)
-  array.push
+  array << element
 end
 
-puts add_element_to_end_of_array
+# puts add_element_to_end_of_array
 
 # def add_element_to_start_of_array(array, element)
 #   array.unshift("wow")
