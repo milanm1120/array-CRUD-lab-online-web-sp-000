@@ -1,14 +1,14 @@
 def create_an_empty_array
-  array = []
+  puts array = []
 end
 
-puts create_an_empty_array
+create_an_empty_array
 
 def create_an_array
-  array = ["wind", "water", "fire", "earth"]
+  puts array = ["wind", "water", "fire", "earth"]
 end
 
-puts create_an_array
+create_an_array
 
 def add_element_to_end_of_array(array, element)
   array.push("arrays!")
