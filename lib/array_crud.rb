@@ -1,11 +1,11 @@
 def create_an_empty_array
-  puts array = []
+  array = []
 end
 
 create_an_empty_array
 
 def create_an_array
-  puts array = ["wind", "water", "fire", "earth"]
+  array = ["wind", "water", "fire", "earth"]
 end
 
 create_an_array
